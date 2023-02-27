@@ -105,6 +105,7 @@ html, body{
   margin: 1rem;
   justify-self: center;
   align-self: center;
+  object-fit: contain;
 }
 @media screen and (max-width: 969px) {
   /* STYLES HERE */
